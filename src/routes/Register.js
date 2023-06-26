@@ -20,7 +20,7 @@ function Register({
                 <h2 className="mx-10 font-extrabold text-[var(--ig-secondary-text)] text-center">
                   Sign up to see photos and videos from your friends.
                 </h2>
-                <PrimaryButton label={"Login with Google"} />
+                {/* <PrimaryButton label={"Login with Google"} /> */}
                 <div className="mx-10 mt-5 mb-5">
                   <div className=" flex flex-row items-center">
                     <div className=" top-[0.45rem] bg-[var(--ig-separator)] h-[2px] flex-grow"></div>

@@ -30,10 +30,10 @@ function Login({ setUserOrEmail, setPassword, handleAction }) {
                     <div className=" top-[0.45rem] bg-[var(--ig-separator)] h-[2px] flex-grow"></div>
                   </div>
                 </div>
-                <button className=" text-sm inline-block text-center cursor-pointer ">
+                {/* <button className=" text-sm inline-block text-center cursor-pointer ">
                   <span className=" w-4 h-4 bg-black mr-2 top-1"></span>
                   <span>Login with google</span>
-                </button>
+                </button> */}
               </form>
             </div>
           </div>
